@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppQuestion</string>
+
+    <string-array name="doc_array">
+        <item>DNI</item>
+        <item>Pasaporte</item>
+    </string-array>
+    <string name="title_activity_question">Question</string>
+
+
+</resources>
